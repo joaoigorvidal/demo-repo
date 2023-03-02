@@ -77,4 +77,12 @@ Use the ( ` ) to make a highlight.
 
 `document.getElementById()`
 
-If you want to pull a whole program inside a comment
+If you want to pull a whole program inside a comment use ( ` ) three times.
+
+Example:
+
+```
+if(let i = 0; i <= 10; i++){
+console.log(i);
+}
+```
